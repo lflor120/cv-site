@@ -1,0 +1,71 @@
+body{
+    text-align:center;
+    font-family:'Monserrat', sans-serif;
+}
+
+img {
+    width: 30%;
+    border-radius: 100%;
+    margin-top:40px;
+}
+
+h3{
+    margin-top:20px;
+    margin-bottom:50px;
+}
+
+.avatar{
+    width: 15%;
+}
+
+.carousel-image{
+    border-radius:0%;
+    width:30%;
+}
+
+.footer{
+    background-color: rgba(12, 71, 0,0.5);
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+.name{
+    font-family:'Lobster',cursive;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+.profile-image{
+    margin-top:20px;
+}
+
+.row-image{
+    width:150px;
+    height: 150;
+    float:left;
+    margin-right:20px;
+}
+
+.akatsuki-image{
+    float:left;
+    margin-right:20px;
+    margin-top:20px;
+    width:150px;
+    height:150px;
+}
+
+.section-title{
+    font:bolder;
+    margin-bottom:40px;
+    margin-top:40;
+}
+
+.section{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.section-row{
+    margin-bottom:40px;
+    text-align:left;
+}
